@@ -1,8 +1,4 @@
-# Logic Building and DSA Practice
 
-A structured collection of programming problems, logic-building exercises, pattern programs, and Data Structures & Algorithms practice designed to strengthen problem-solving skills and programming fundamentals.
-
-This repository documents my coding practice journey, starting from basic programming concepts and logic building to advanced DSA concepts and interview-oriented problems.
 
 ## Objectives
 
